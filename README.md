@@ -1,6 +1,6 @@
 # I'm Shelby 👋
 
-Hello! I'm a data journalist currently finishing up my master's at Columbia University's Graduate School of Journalism in NYC.
+Hello! I'm a data journalist currently finishing up my master's at Columbia University in NYC.
 I am job hunting and interested in freelancing, so please reach out if you would like to collaborate!
 
 🪴 **Beats:**
