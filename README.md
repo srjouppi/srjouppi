@@ -8,9 +8,9 @@ digital news + graphic designer, and a podcast producer.
 Health care, public health and child + family issues
 
 ✨ **Things I Love:**
-* **Enterprise data collection.** I write web scrapers, find APIs, parse PDFs, analyze text in order to find creative ways to quantify things.
+* **Enterprise data collection.** I write web scrapers, find APIs, parse PDFs, analyze text and more in order to find creative ways to quantify things.
 * **Super speedy data wrangling.** I clean and merge large datasets mostly using python, and it's a blast.
-* **Audience-first reporting.** I look for ways to turn my or a colleague's reporting into an accessible tool for the audience. I also think newsrooms are more effective when they make journalism _for_ and not just _about_ a community, and I love working on audience-driven projects.
+* **Audience-first reporting.** I look for ways to turn my or a colleague's reporting into an accessible tool for the audience. I think newsrooms are most effective when they make journalism _for_ and not just _about_ a community, and I love working on audience-driven projects.
   
 * **Stories that contextualize problems we feel.**
 
