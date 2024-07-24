@@ -2,7 +2,7 @@
 
 Hello! I'm a freelance data reporter helping local newsrooms find creative ways to bolster their work with data collection, analysis, visualization and public service tools.
 Before going back to get my master's in data journalism from Columbia University in 2021, I was a reporter at Detroit's NPR station, a
-digital news designer, and a podcast producer.
+digital news + graphic designer, and a podcast producer.
 
 🪴 **Beats:**
 Health care, public health and child + family issues
