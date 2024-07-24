@@ -1,6 +1,6 @@
 # I'm Shelby 👋
 
-Hello! I'm a freelance data journalist helping local newsrooms find creative ways to bolster their reporting with data collection, analysis, visualization and public service tools.
+Hello! I'm a freelance data reporter helping local newsrooms find creative ways to bolster their work with data collection, analysis, visualization and public service tools.
 Before going back to get my master's in data journalism from Columbia University in 2021, I was a reporter at Detroit's NPR station, a
 digital news designer, and a podcast producer.
 
