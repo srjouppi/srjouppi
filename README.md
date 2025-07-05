@@ -1,6 +1,6 @@
 # I'm Shelby 👋
 
-Hello! I'm an environmental data reporter covering pollution and enforcement for Public Health Watch. Prior I worked as a freelancer helping local newsrooms find creative ways to bolster their work with data collection, analysis, visualization and public service tools. Before going back to get my master's in data journalism from Columbia University in 2021, I was a reporter at Detroit's NPR station, a digital news + graphic designer, and a podcast producer.
+Hello! I'm an environmental data reporter covering pollution and enforcement for Public Health Watch. Before this, I worked as a freelancer helping local newsrooms find creative ways to bolster their work with data collection, analysis, visualization and public service tools. Prior to completing a master's in data journalism from Columbia University in 2021, I was a reporter at Detroit's NPR station, a digital news + graphic designer, and a podcast producer.
 
 🪴 **Beats:**
 Public health and child + family issues
